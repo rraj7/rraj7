@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# <div align="center">I'm  Rishi Raj - an emerging Full-Stack Software developer. Looking to learn new tech everyday! </div>
+# <div align="center">I'm  Rishi Raj - an emerging Full-Stack Software Developer. Looking to learn new tech everyday! </div>
 
 ### I'm from <img src="./logos/india.svg" width="13"/> <b>India</b>, currently living in Chicago,USA <img src="./logos/cloud-gate.svg" width="13"/><img src="./logos/united-states-of-america.svg" width="13"/>
 
@@ -11,7 +11,7 @@
 <!--
 **rraj7/rraj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on **PHP based backend REST API projects**
 - 🌱 I’m currently learning **Backend frameworks in Microarchitecture**
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **React.js and Redux**
 - 💬 Ask me about **My experiences in Full Stack Development**
 - 📫 How to reach me: **Via email rishiraj3107@gmail.com**
-- 😄 Passions: *Singing, Cooking, Biking, Photography*
+- 😄 Passions: ***Singing, Cooking, Biking, Photography***
 - ⚡ Fun fact: **QWERTY keyboard was built to slow typing speed**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rraj7&layout=compact)](https://github.com/rraj7/github-readme-stats)
@@ -55,7 +55,7 @@ You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
