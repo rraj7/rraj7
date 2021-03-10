@@ -1,9 +1,8 @@
 ### Hi there 👋
-<<<<<<< HEAD
+
 [![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraj7)](https://github.com/rraj7/github-readme-stats)
 =======
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
->>>>>>> 3a4c259060c454dd9b548c2c3bd2f3649ad01e34
+
 
 <!--
 **rraj7/rraj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
