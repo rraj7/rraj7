@@ -7,7 +7,7 @@
 #### Recruiters please send me a direct email or checkout my portfolio here: *https://rraj7.github.io*
 [![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraj7&show_icons=true)](https://github.com/rraj7/github-readme-stats)
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rraj7" alt="rraj7" /> </p>
 <!--
 **rraj7/rraj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
