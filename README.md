@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# <div align="center">I'm  Rishi Raj - a emerging Full-Stack Software developer who is looking to learn! </div>
+# <div align="center">I'm  Rishi Raj - an emerging Full-Stack Software developer. Looking to learn new tech everyday! </div>
 
 ### I'm from <img src="./logos/india.svg" width="13"/> <b>India</b>, currently living in Chicago,USA <img src="./logos/cloud-gate.svg" width="13"/><img src="./logos/united-states-of-america.svg" width="13"/>
 
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/php-PHP-blue?style=flat-square&logo=angular&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
