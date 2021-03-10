@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraj7)](https://github.com/rraj7/github-readme-stats)
+[![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraj7&show_icons=true)](https://github.com/rraj7/github-readme-stats)
+
 
 <!--
 **rraj7/rraj7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **QWERTY keyboard was built to slow typing speed**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rraj7langs_count=8)](https://github.com/rraj7/github-readme-stats)
