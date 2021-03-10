@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# <div align="center">I'm  Rishi Raj - a passionate software developer who is looking to learn! </div>
+# <div align="center">I'm  Rishi Raj - a emerging software developer who is looking to learn! </div>
 
 #### Recruiters please send me a direct email or checkout my portfolio here: *https://rraj7.github.io*
 [![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraj7&show_icons=true)](https://github.com/rraj7/github-readme-stats)
@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **React.js and Redux**
 - 💬 Ask me about **My experiences in Full Stack Development**
 - 📫 How to reach me: **Via email rishiraj3107@gmail.com**
-- 😄 Passions: Singing, Cooking, Biking, Photography
+- 😄 Passions: *Singing, Cooking, Biking, Photography*
 - ⚡ Fun fact: **QWERTY keyboard was built to slow typing speed**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rraj7&layout=compact)](https://github.com/rraj7/github-readme-stats)
 
 <!-- Actual text -->
 
-You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
