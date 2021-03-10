@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: https://i.imgur.com/tpysV3g.png (twitter icon without padding)
-[2.2]: https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1615398961~hmac=b07c48e84dd9b6f9ab8bcdd9faeb2fbb(LinkedIn icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
