@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#           I'm  Rishi Raj - a passionate software developer who is looking to learn! Help me   learn more new technologies everyday by connecting with me.
+# <center>I'm  Rishi Raj - a passionate software developer who is looking to learn! </center>
 
 ### Recruiters please send me a direct email or checkout my portfolio here: [https://rraj7.github.io]
 [![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraj7&show_icons=true)](https://github.com/rraj7/github-readme-stats)
