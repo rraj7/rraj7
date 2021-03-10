@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **QWERTY keyboard was built to slow typing speed**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rraj7langs_count=8)](https://github.com/rraj7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rraj7&langs_count=8)](https://github.com/rraj7/github-readme-stats)
