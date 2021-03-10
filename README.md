@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# <div align="center">I'm  Rishi Raj - a emerging software developer who is looking to learn! </div>
+# <div align="center">I'm  Rishi Raj - a emerging Full-Stack Software developer who is looking to learn! </div>
 
-<p>Welcome to my Github Account </br> I'm Rishi Raj, an aspiring Fullstack developer from <img src="./logos/india.svg" width="13"/> <b>India</b>, currently living in <img src="./logos/united-states-of-america.svg" width="13"/>
+### I'm from <img src="./logos/india.svg" width="13"/> <b>India</b>, currently living in <img src="./logos/united-states-of-america.svg" width="13"/>
 
 #### Recruiters please send me a direct email or checkout my portfolio here: *https://rraj7.github.io*
 [![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rraj7&show_icons=true)](https://github.com/rraj7/github-readme-stats)
