@@ -1,17 +1,15 @@
 <h1 align="center">Hi, I'm Rishi 👋</h1>
 <p align="center">
   🚀 DevOps Engineer • 🧱 Terraform Whisperer • ☁️ Cloud Architect <br/>
-  <a href="https://www.linkedin.com/in/rishi-raj/">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/rishi-raj/">LinkedIn</a> •
   <a href="https://github.com/rraj7">GitHub</a> • 
  <p align="center">
-  <a href="mailto:rishi@example.com" target="_blank">
+  <a href="mailto:rishiraj3107@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Email" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rishiraj31/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://discord.gg/mythicalpanda7" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" alt="Join Discord Server" />
   </a>
@@ -28,17 +26,17 @@
   <img src="https://komarev.com/ghpvc/?username=rraj7&label=Visitors&color=blueviolet&style=flat-square" alt="Visitor badge" />
 </p>
 
-### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+    <h2 align="center">Tech Stack </h2>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
 </p>
 
 <p align="center">
@@ -58,20 +56,18 @@
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />  
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-    <img alt="POSTGRES" src="https://img.shields.io/badge/Postgres-Postgres-blue?style=flat-square&logo=postgres&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/php-PHP-blue?style=flat-square&logo=php&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="SQL" src="https://img.shields.io/badge/sql-SQL-red?style=flat-square&logo=sql&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  
 </p>
+
 ---
 
 ### 🔐 Certifications
@@ -110,9 +106,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rraj7&show_icons=true&theme=tokyonight&hide_border=true" width="30%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rraj7&theme=tokyonight&hide_border=true" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraj7&layout=compact&theme=tokyonight&hide_border=true" width="23%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rraj7&show_icons=true&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rraj7&theme=tokyonight&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rraj7&layout=compact&theme=tokyonight&hide_border=true" width="33%" />
 </p>
 
 <!-- <p align="center">
