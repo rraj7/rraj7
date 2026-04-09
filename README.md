@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Rishi 👋</h1>
 <p align="center">
   🤖 MLOps Engineer • 🚀 Forward Deployed Engineer • ☁️ Cloud Architect <br/>
-  <a href="https://www.linkedin.com/in/rishi-raj/">LinkedIn</a> •
-  <a href="https://github.com/rraj7">GitHub</a> •
- <p align="center">
+  <a href="https://www.linkedin.com/in/rishiraj31/">LinkedIn</a> •
+  <a href="https://github.com/rraj7">GitHub</a>
+</p>
+<p align="center">
   <a href="mailto:rishiraj3107@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="Email" />
   </a>
@@ -11,15 +12,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
   </a>
   <a href="https://discord.gg/mythicalpanda7" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" alt="Join Discord Server" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" alt="Discord" />
   </a>
   <a href="https://medium.com/@rishiraj3107" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" height="30" alt="Medium Blog" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" height="30" alt="Medium" />
   </a>
   <a href="https://dev.to/rishiraj3107" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg" height="30" alt="Dev.to Profile" />
-</a>
-</p>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg" height="30" alt="Dev.to" />
+  </a>
 </p>
 
 <p align="center">
@@ -28,31 +28,31 @@
 
 ### Tech Stack
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="Prometheus" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-ML-EE4C2C?logo=pytorch&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/TensorFlow-DL-FF6F00?logo=tensorflow&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/MLflow-Tracking-0194E2?logo=mlflow&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?logo=prometheus&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Grafana-Observability-F46800?logo=grafana&logoColor=white&style=flat-square"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?logo=githubactions&style=flat-square"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ML-EE4C2C?logo=pytorch&logoColor=white&style=flat-square"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-DL-FF6F00?logo=tensorflow&logoColor=white&style=flat-square"/>
+  <img alt="MLflow" src="https://img.shields.io/badge/MLflow-Tracking-0194E2?logo=mlflow&logoColor=white&style=flat-square"/>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white&style=flat-square"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white&style=flat-square"/>
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white&style=flat-square"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-Cloud-0078D4?logo=microsoftazure&logoColor=white&style=flat-square"/>
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?logo=prometheus&logoColor=white&style=flat-square"/>
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-Observability-F46800?logo=grafana&logoColor=white&style=flat-square"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?logo=githubactions&style=flat-square"/>
 </p>
 
 <p align="center">
@@ -150,7 +150,7 @@
 > This case study explores how human curiosity and context outperformed AI in debugging complex Terraform issues.
 > _Full story on [LinkedIn](https://linkedin.com/in/rishiraj31)_
 
-![LLM Debug](https://medium.com/@rishiraj3107/using-only-ai-to-debug-terraform-a-case-study-of-how-good-is-ai-at-debugging-c9438916e398)
+[Read the full case study on Medium](https://medium.com/@rishiraj3107/using-only-ai-to-debug-terraform-a-case-study-of-how-good-is-ai-at-debugging-c9438916e398)
 
 ---
 
